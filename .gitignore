@@ -1,3 +1,5 @@
-.o
-cub3d
+*.o
+*.a
+cub3D
 .vscode
+libs/mlx

@@ -1,6 +1,29 @@
 # 🎮 Cub3D
 
-*A powerful 3D raycasting engine - bringing classic FPS graphics to life*
+<div align="center">
+  <a href="https://github.com/umutsogukpinar/cub3d">
+    <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dm.png" alt="CUB3D Logo" width="200">
+  </a>
+
+  <h1>CUB3D</h1>
+  
+  <p>
+    <b>"A raycasting-based 3D engine inspired by Wolfenstein 3D."</b>
+  </p>
+
+  <p>
+    <a href="https://github.com/umutsogukpinar/cub3d">
+      <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c" alt="C Language">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Graphics-MiniLibX-orange?style=for-the-badge" alt="MiniLibX">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Score-125%2F100-success?style=for-the-badge" alt="Score">
+    </a>
+  </p>
+
+</div>
 
 ---
 
